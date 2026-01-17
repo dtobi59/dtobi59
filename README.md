@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Olaboye David Tobi
-- :telescope: Leader || Software Engineer || Blockchain Developer.
-- 👀 I’m interested in web3 and everything about web development 
+- :telescope: Leader || Software Engineer || Blockchain Developer || AI/ML Engineer.
+- 👀 I’m interested in web3, AI and everything about Technology 
 
 
 <!---
